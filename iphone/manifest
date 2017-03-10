@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: tiheapanalytics
+author: Benjamin Peters
+license: Specify your license
+copyright: Copyright (c) 2017 by Your Company
+
+# these should not be edited
+name: tiheapanalytics
+moduleid: com.benjamin.heap
+guid: 9e810091-5250-438c-805a-4ef30f662706
+platform: iphone
+minsdk: 5.3.0.GA
